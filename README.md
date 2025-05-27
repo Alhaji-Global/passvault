@@ -10,7 +10,7 @@ How to get there:
 4. Encrypt stored passwords.
 
 # Contributing
-Feel free to contribute through pull requests. But keep in mind this repository is currently mainly for learning Python. Therefore ideas on how to structure this project for learning purposes are always appreciated. For bigger changes, please open an issue first to discuss what you would like to change.
+Feel free to contribute through pull requests. But keep in mind this repository is mainly for learning Python. Therefore ideas on how to structure this project for learning purposes are always appreciated. For bigger changes, please open an issue first to discuss what you would like to change.
 
 # Authors 
 Written by:
